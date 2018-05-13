@@ -4,8 +4,8 @@
   "author": "BitPay <dev@bitpay.com>",
   "version": "3.1.2",
   "main": "./index.js",
-  "repository": "git://git@github.com/MercerWeiss/bitcore-node-komodo.git",
-  "homepage": "https://github.com/MercerWeis/bitcore-node-komodo",
+  "repository": "git://github.com/MercerWeiss/bitcore-node-komodo.git",
+  "homepage": "https://github.com/MercerWeiss/bitcore-node-komodo",
   "bugs": {
     "url": "https://github.com/MercerWeiss/bitcore-node/issues"
   },
